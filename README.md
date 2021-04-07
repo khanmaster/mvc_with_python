@@ -37,6 +37,8 @@ def home():
 # implement OOP inheritance
 ```
 ### Bootstrap HTML CSS JS 
+![](https://github.com/khanmaster/mvc_with_python/blob/main/MVCflask.png)
+
 - Let's add a Nav Bar and a Login page in index.html
 ```html 5
 <!DOCTYPE html>
