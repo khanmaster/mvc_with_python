@@ -110,3 +110,5 @@ def home():
 - Let's see this in action on the Webpage live!!!
 
 ![](https://github.com/khanmaster/mvc_with_python/blob/main/mvc_example%20(2).png)
+
+### Amazing 
